@@ -1,0 +1,325 @@
+[ 
+  {
+    "id": "urn:ngsi-ld:GreenspaceRecord:Supcom-Garden-left-Record-1",
+    "type": "GreenspaceRecord",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-15T12:00:00Z"
+      }
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.187101,
+          36.892097
+        ]
+      }
+    },
+    "refGreenspace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Greenspace:Supcom-Garden"
+    },
+    "soilMoisturePressure": {
+      "type": "Property",
+      "value": 9
+    },
+    "soilTemperature": {
+      "type": "Property",
+      "value": 23
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:GreenspaceRecord:Supcom-Garden-left-Record-2",
+    "type": "GreenspaceRecord",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-15T12:00:00Z"
+      }
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.187171,
+          36.892068
+        ]
+      }
+    },
+    "refGreenspace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Greenspace:Supcom-Garden"
+    },
+    "soilMoisturePressure": {
+      "type": "Property",
+      "value": 11
+    },
+    "soilTemperature": {
+      "type": "Property",
+      "value": 20
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:GreenspaceRecord:Supcom-Garden-left-Record-3",
+    "type": "GreenspaceRecord",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-15T12:00:00Z"
+      }
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.187333,
+          36.892067
+        ]
+      }
+    },
+    "refGreenspace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Greenspace:Supcom-Garden"
+    },
+    "soilMoisturePressure": {
+      "type": "Property",
+      "value": 15
+    },
+    "soilTemperature": {
+      "type": "Property",
+      "value": 14
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:GreenspaceRecord:Supcom-Garden-right-Record-1",
+    "type": "GreenspaceRecord",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-15T12:00:00Z"
+      }
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.187674,
+          36.892334
+        ]
+      }
+    },
+    "refGreenspace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Greenspace:Supcom-Garden"
+    },
+    "soilMoisturePressure": {
+      "type": "Property",
+      "value": 4
+    },
+    "soilTemperature": {
+      "type": "Property",
+      "value": 25
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:GreenspaceRecord:Supcom-Garden-right-Record-2",
+    "type": "GreenspaceRecord",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-15T12:00:00Z"
+      }
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.187642,
+          36.892230
+        ]
+      }
+    },
+    "refGreenspace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Greenspace:Supcom-Garden"
+    },
+    "soilMoisturePressure": {
+      "type": "Property",
+      "value": 7
+    },
+    "soilTemperature": {
+      "type": "Property",
+      "value": 23
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:GreenspaceRecord:Supcom-Garden-right-Record-3",
+    "type": "GreenspaceRecord",
+    "dateObserved": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-15T12:00:00Z"
+      }
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.187569,
+          36.892153
+        ]
+      }
+    },
+    "refGreenspace": {
+      "type": "Relationship",
+      "object": "urn:ngsi-ld:Greenspace:Supcom-Garden"
+    },
+    "soilMoisturePressure": {
+      "type": "Property",
+      "value": 16
+    },
+    "soilTemperature": {
+      "type": "Property",
+      "value": 12
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:Garden:Supcom-formerLocation-Garden-right",
+    "type": "Garden",
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Ghazela",
+        "postalCode": "2083",
+        "streetAddress": "Av. Fethi Zouhir",
+        "type": "PostalAddress"
+      }
+    },
+    "areaServed": {
+      "type": "Property",
+      "value": "Supcom"
+    },
+    "category": {
+      "type": "Property",
+      "value": [
+        "private"
+      ]
+    },
+    "dateLastWatering": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-01T08:00:00Z"
+      }
+    },
+    "description": {
+      "type": "Property",
+      "value": "Supcom Garden: former location"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.183370,
+          36.890925
+        ]
+      }
+    },
+    "name": {
+      "type": "Property",
+      "value": "Supcom Garden"
+    },
+    "openingHours": {
+      "type": "Property",
+      "value": "Mo-Su"
+    },
+    "refRecord": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Record:Santander-Garden-Piquio-Record-1"
+      ]
+    },
+    "style": {
+      "type": "Property",
+      "value": "french"
+    }
+  },
+  {
+    "id": "urn:ngsi-ld:Garden:Supcom-formerLocation-Garden-left",
+    "type": "Garden",
+    "address": {
+      "type": "Property",
+      "value": {
+        "addressLocality": "Ghazela",
+        "postalCode": "2083",
+        "streetAddress": "Av. Fethi Zouhir",
+        "type": "PostalAddress"
+      }
+    },
+    "areaServed": {
+      "type": "Property",
+      "value": "Supcom"
+    },
+    "category": {
+      "type": "Property",
+      "value": [
+        "private"
+      ]
+    },
+    "dateLastWatering": {
+      "type": "Property",
+      "value": {
+        "@type": "DateTime",
+        "@value": "2024-04-01T08:00:00Z"
+      }
+    },
+    "description": {
+      "type": "Property",
+      "value": "Supcom Garden: former location"
+    },
+    "location": {
+      "type": "GeoProperty",
+      "value": {
+        "type": "Point",
+        "coordinates": [
+          10.183134,
+          36.890838
+        ]
+      }
+    },
+    "name": {
+      "type": "Property",
+      "value": "Supcom Garden"
+    },
+    "openingHours": {
+      "type": "Property",
+      "value": "Mo-Su"
+    },
+    "refRecord": {
+      "type": "Relationship",
+      "object": [
+        "urn:ngsi-ld:Record:Santander-Garden-Piquio-Record-2"
+      ]
+    },
+    "style": {
+      "type": "Property",
+      "value": "french"
+    }
+  }
+  
+]
