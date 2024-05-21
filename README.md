@@ -8,10 +8,10 @@ It's used in smart cities, industries, agriculture, the Internet of Things, cybe
 
 ## Getting started
 
-This project relies on [ngsild-grafana-datasource](#https://github.com/bfi-de/ngsild-grafana-datasource), a Git plugin designed for Grafana, facilitating the integration of an NGSI-LD datasource. To begin, ensure to follow the steps outlined in this link.
+This project relies on [ngsild-grafana-datasource](https://github.com/bfi-de/ngsild-grafana-datasource), a Git plugin designed for Grafana, facilitating the integration of an NGSI-LD datasource. To begin, ensure to follow the steps outlined in this link.
 
 ## Smart data model 
-In this project, we utilize the [dataModel.ParksAndGardens](#https://github.com/smart-data-models/dataModel.ParksAndGardens) to represent parks, gardens, and associated green spaces within a city.
+In this project, we utilize the [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens) to represent parks, gardens, and associated green spaces within a city.
 
 ## Query configurations
 
