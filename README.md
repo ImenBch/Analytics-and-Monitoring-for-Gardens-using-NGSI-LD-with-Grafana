@@ -23,7 +23,7 @@ The sample scenario included in this repository comes with four sample dashboard
 
 This enables us to visualize soil moisture pressure and soil temperature while ensuring comparison across different points and controlling them through a threshold system.
 
-<img src="./screenshots/Soil Moisture Pressure.png" alt="Screenshot of the menu for a temporal query" style="width:900px;"/>
+<img src="./screenshots/Soil Moisture Pressure.png" alt="Screenshot of the menu for a temporal query" style="width:800px;"/>
 <img src="./screenshots/Soil Temperature.png" alt="Screenshot of the menu for a temporal query" style="width:900px;"/>
 
 ### Bar visualization
