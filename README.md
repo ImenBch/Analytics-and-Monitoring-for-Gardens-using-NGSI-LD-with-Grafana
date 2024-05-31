@@ -13,8 +13,10 @@ This project relies on [ngsild-grafana-datasource](https://github.com/bfi-de/ngs
 ## Smart data model 
 In this project, we utilize the [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens) to represent parks, gardens, and associated green spaces within a city.
 
-## Query configurations
+## Architecture
+<img src="./screenshots/NGSI_LD.png" alt="architecture" style="width:900px;"/>
 
+## Query configurations
 The sample scenario included in this repository comes with four sample dashboards which can be used as templates.
 
 ### Standard gauge visualization
