@@ -14,7 +14,7 @@ This project relies on [ngsild-grafana-datasource](https://github.com/bfi-de/ngs
 In this project, we utilize the [dataModel.ParksAndGardens](https://github.com/smart-data-models/dataModel.ParksAndGardens) to represent parks, gardens, and associated green spaces within a city.
 
 ## Architecture
-<img src="./screenshots/NGSI_LD.png" alt="architecture" style="width:900px;"/>
+<img src="./screenshots/NGSI_LD.png" alt="architecture" style="width:700px;"/>
 
 ## Query configurations
 The sample scenario included in this repository comes with four sample dashboards which can be used as templates.
@@ -23,7 +23,7 @@ The sample scenario included in this repository comes with four sample dashboard
 
 This enables us to visualize soil moisture pressure and soil temperature while ensuring comparison across different points and controlling them through a threshold system.
 
-<img src="./screenshots/Soil Moisture Pressure.png" alt="Screenshot of the menu for a temporal query" style="width:800px;"/>
+<img src="./screenshots/Soil Moisture Pressure.png" alt="Screenshot of the menu for a temporal query" style="width:900px;"/>
 <img src="./screenshots/Soil Temperature.png" alt="Screenshot of the menu for a temporal query" style="width:900px;"/>
 
 ### Bar visualization
